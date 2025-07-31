@@ -149,33 +149,7 @@
     </ol>
   </section>
   
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Class 7 Science & Math Questions</title>
-  <style>
-    body {
-      font-family: SolaimanLipi, Arial, sans-serif;
-      margin: 20px;
-      background-color: #fafafa;
-      color: #222;
-    }
-    h1, h2 {
-      color: #0b3d91;
-    }
-    ol {
-      margin-left: 20px;
-      margin-bottom: 30px;
-    }
-    li {
-      margin-bottom: 15px;
-      line-height: 1.5;
-    }
-    strong {
-      color: #0b3d91;
-      font-weight: 700;
+
     }
   </style>
 </head>
