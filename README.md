@@ -66,12 +66,13 @@
 <body>
   <header>
     <h1>Class 7 প্রশ্ন ও উত্তর</h1>
-    <p>ICT, বিজ্ঞান, গণিত, বাংলা ও ইংরেজি</p>
+    <p>ICT,BGS, বিজ্ঞান, গণিত, বাংলা ও ইংরেজি</p>
   </header>
 
   <nav>
     <ul>
       <li><a href="#ict">ICT</a></li>
+      <li><a href="#ict">BGS</a></li>
       <li><a href="#science">বিজ্ঞান</a></li>
       <li><a href="#math">গণিত</a></li>
       <li><a href="#bangla">বাংলা</a></li>
