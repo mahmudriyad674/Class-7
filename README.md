@@ -4,40 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="Ru4AxNsXvuwcb67yi4XNbgL-e4xMw6HuNWJ3b3GvaP8" />
-  <title>Class 7 Important Questions</title>
-  <style>
-    body {
-      font-family: 'Kalpurush', sans-serif;
-      background-color: #f9f9f9;
-      margin: 0;
-      padding: 0 15px;
-    }
-    header {
-      background-color: #2196F3;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    nav ul {
-      background-color: #333;
-      list-style: none;
-      padding: 10px;
-      display: flex;
-      justify-content: center;
-      margin: 0;
-    }
-    nav ul li {
-      margin: 0 15px;
-    }
-    nav ul li a {
-      color: white;
-      text-decoration: none;
-    }
-    nav ul li a:hover {
-      text-decoration: underline;
-    }
-    main {
-      padding: 20px 0;
+
     }
     section {
       background: #fff;
