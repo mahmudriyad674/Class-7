@@ -154,34 +154,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Class 7 Science - Chapter 10 & 14 Questions</title>
-  <style>
-    body {
-      font-family: SolaimanLipi, Arial, sans-serif;
-      margin: 20px;
-      background: #f5f5f5;
-      color: #222;
-    }
-    h1, h2 {
-      color: #0b3d91;
-    }
-    ol {
-      margin-left: 20px;
-      margin-bottom: 30px;
-    }
-    li {
-      margin-bottom: 12px;
-      line-height: 1.5;
-    }
-  </style>
-</head>
-<body>
-  <main>
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-  <meta charset="UTF-8" />
-  <title>Class 7 Math - অধ্যায় ৬ (ভগ্নাংশ) প্রশ্নোত্তর</title>
+  <title>Class 7 Science & Math Questions</title>
   <style>
     body {
       font-family: SolaimanLipi, Arial, sans-serif;
@@ -190,10 +163,11 @@
       color: #222;
     }
     h1, h2 {
-      color: #1a237e;
+      color: #0b3d91;
     }
     ol {
       margin-left: 20px;
+      margin-bottom: 30px;
     }
     li {
       margin-bottom: 15px;
@@ -206,6 +180,7 @@
   </style>
 </head>
 <body>
+
   <h1>Class 7 গণিত - অধ্যায় ৬ (ভগ্নাংশ)</h1>
   <ol>
     <li><strong>ভগ্নাংশ কী?</strong><br>একটি সংখ্যা যা একটি পূর্ণ সংখ্যার ভাগকে দেখায় তাকে ভগ্নাংশ বলে।</li>
@@ -221,3 +196,5 @@
   </ol>
 </body>
 </html>
+
+
