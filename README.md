@@ -5,29 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="Ru4AxNsXvuwcb67yi4XNbgL-e4xMw6HuNWJ3b3GvaP8" />
 
-    }
-    section {
-      background: #fff;
-      margin-bottom: 30px;
-      padding: 15px;
-      border-radius: 8px;
-      box-shadow: 0 0 5px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #2E7D32;
-    }
-    ol {
-      padding-left: 20px;
-    }
-    .question {
-      font-weight: bold;
-    }
-    footer {
-      background-color: #eee;
-      text-align: center;
-      padding: 15px;
-      margin-top: 30px;
-    }
   </style>
 </head>
 <body>
