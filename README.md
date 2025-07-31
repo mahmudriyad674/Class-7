@@ -150,8 +150,7 @@
   </section>
   
 
-    }
-  </style>
+    
 </head>
 <body>
 
