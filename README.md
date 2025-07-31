@@ -1,18 +1,16 @@
-# Class-7
-"A simple website to publish important questions for Class 7. Created to help students easily find and read key questions from Bangla, Math, Since ,English and ICT subjects."
-
-Lets start:
 <!DOCTYPE html>
 <html lang="bn">
 <head>
-  <meta charset="UTF-8">
-  <title>Class 7 প্রশ্ন ও উত্তর</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="Ru4AxNsXvuwcb67yi4XNbgL-e4xMw6HuNWJ3b3GvaP8" />
+  <title>Class 7 Important Questions</title>
   <style>
     body {
       font-family: 'Kalpurush', sans-serif;
       background-color: #f9f9f9;
       margin: 0;
-      padding: 0;
+      padding: 0 15px;
     }
     header {
       background-color: #2196F3;
@@ -39,7 +37,7 @@ Lets start:
       text-decoration: underline;
     }
     main {
-      padding: 20px;
+      padding: 20px 0;
     }
     section {
       background: #fff;
@@ -54,13 +52,14 @@ Lets start:
     ol {
       padding-left: 20px;
     }
+    .question {
+      font-weight: bold;
+    }
     footer {
       background-color: #eee;
       text-align: center;
       padding: 15px;
-    }
-    .question {
-      font-weight: bold;
+      margin-top: 30px;
     }
   </style>
 </head>
@@ -81,7 +80,6 @@ Lets start:
   </nav>
 
   <main>
-    <!-- ICT -->
     <section id="ict">
       <h2>ICT</h2>
       <ol>
@@ -98,18 +96,33 @@ Lets start:
       </ol>
     </section>
 
+    <section id="science">
+      <h2>Since</h2>
+      <ol>
+        <li><span class="question">সিন্স কী?</span> সিন্স হলো সমাজ ও নাগরিকতা শিক্ষার একটি বিষয় যা সমাজ, রাষ্ট্র ও নাগরিকত্ব সম্পর্কিত জ্ঞান দেয়।</li>
+        <li><span class="question">রাষ্ট্র কী?</span> রাষ্ট্র হলো একটি সুশৃঙ্খল সমাজ যেখানে সরকারের মাধ্যমে আইন ও নিয়ম বজায় থাকে।</li>
+        <li><span class="question">নাগরিকত্বের অর্থ কী?</span> নাগরিকত্ব হলো কোনো দেশের স্থায়ী সদস্য হওয়ার অধিকার ও কর্তব্য।</li>
+        <li><span class="question">মানবাধিকার কী?</span> মানবাধিকার হলো প্রত্যেক মানুষের মৌলিক অধিকার যা সবার জন্য সমান।</li>
+        <li><span class="question">শ্রমিক শ্রেণীর ভূমিকা কী?</span> শ্রমিক শ্রেণী দেশের অর্থনৈতিক উন্নয়নে গুরুত্বপূর্ণ ভূমিকা পালন করে।</li>
+        <li><span class="question">পরিবেশ সংরক্ষণ কেন জরুরি?</span> পরিবেশ সংরক্ষণ করলে আমরা সুস্থ জীবনযাপন করতে পারি ও প্রকৃতির ভারসাম্য বজায় থাকে।</li>
+        <li><span class="question">গণতন্ত্র কী?</span> গণতন্ত্র হলো এমন একটি সরকার ব্যবস্থা যেখানে জনগণ তাদের প্রতিনিধি নির্বাচনের মাধ্যমে ক্ষমতা প্রদান করে।</li>
+        <li><span class="question">বিধানসভা কী?</span> বিধানসভা হলো রাজ্যের আইন প্রণয়নের প্রতিষ্ঠান।</li>
+        <li><span class="question">শিক্ষার গুরুত্ব কী?</span> শিক্ষা মানুষের জ্ঞান ও মননশীলতা বাড়িয়ে তাকে সমাজের উন্নত নাগরিক করে তোলে।</li>
+        <li><span class="question">সততা কীভাবে সমাজ উন্নত করে?</span> সততা সমাজে বিশ্বাস ও ন্যায় প্রতিষ্ঠা করে, যা উন্নতির জন্য জরুরি।</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Class 7 Important Questions</p>
+  </footer>
+</body>
+</html>
+
+
     
-  <h2>Since</h2>
-  <ol>
-    <li><span class="question">সিন্স কী?</span> সিন্স হলো সমাজ ও নাগরিকতা শিক্ষার একটি বিষয় যা সমাজ, রাষ্ট্র ও নাগরিকত্ব সম্পর্কিত জ্ঞান দেয়।</li>
-    <li><span class="question">রাষ্ট্র কী?</span> রাষ্ট্র হলো একটি সুশৃঙ্খল সমাজ যেখানে সরকারের মাধ্যমে আইন ও নিয়ম বজায় থাকে।</li>
-    <li><span class="question">নাগরিকত্বের অর্থ কী?</span> নাগরিকত্ব হলো কোনো দেশের স্থায়ী সদস্য হওয়ার অধিকার ও কর্তব্য।</li>
-    <li><span class="question">মানবাধিকার কী?</span> মানবাধিকার হলো প্রত্যেক মানুষের মৌলিক অধিকার যা সবার জন্য সমান।</li>
-    <li><span class="question">শ্রমিক শ্রেণীর ভূমিকা কী?</span> শ্রমিক শ্রেণী দেশের অর্থনৈতিক উন্নয়নে গুরুত্বপূর্ণ ভূমিকা পালন করে।</li>
-    <li><span class="question">পরিবেশ সংরক্ষণ কেন জরুরি?</span> পরিবেশ সংরক্ষণ করলে আমরা সুস্থ জীবনযাপন করতে পারি ও প্রকৃতির ভারসাম্য বজায় থাকে।</li>
-    <li><span class="question">গণতন্ত্র কী?</span> গণতন্ত্র হলো এমন একটি সরকার ব্যবস্থা যেখানে জনগণ তাদের প্রতিনিধি নির্বাচনের মাধ্যমে ক্ষমতা প্রদান করে।</li>
-    <li><span class="question">বিধানসভা কী?</span> বিধানসভা হলো রাজ্যের আইন প্রণয়নের প্রতিষ্ঠান।</li>
-    <li><span class="question">শিক্ষার গুরুত্ব কী?</span> শিক্ষা মানুষের জ্ঞান ও মননশীলতা বাড়িয়ে তাকে সমাজের উন্নত নাগরিক করে তোলে।</li>
-    <li><span class="question">সততা কীভাবে সমাজ উন্নত করে?</span> সততা সমাজে বিশ্বাস ও ন্যায় প্রতিষ্ঠা করে, যা উন্নতির জন্য জরুরি।</li>
-  </ol>
-</section>
+      
+  
+
+    
+  
