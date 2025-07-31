@@ -111,35 +111,7 @@
     <li><span class="question">শিক্ষার গুরুত্ব কী?</span> শিক্ষা মানুষের জ্ঞান ও মননশীলতা বাড়িয়ে তাকে সমাজের উন্নত নাগরিক করে তোলে।</li>
     <li><span class="question">সততা কীভাবে সমাজ উন্নত করে?</span> সততা সমাজে বিশ্বাস ও ন্যায় প্রতিষ্ঠা করে, যা উন্নতির জন্য জরুরি।</li>
   </ol>
-</section>
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Class 7 Science - Chapter 10 & 14 Questions</title>
-  <style>
-    body {
-      font-family: SolaimanLipi, Arial, sans-serif;
-      margin: 20px;
-      background: #f5f5f5;
-      color: #222;
-    }
-    h1, h2 {
-      color: #0b3d91;
-    }
-    ol {
-      margin-left: 20px;
-      margin-bottom: 30px;
-    }
-    li {
-      margin-bottom: 12px;
-      line-height: 1.5;
-    }
-  </style>
-</head>
-<body>
-  <main>
+
     <section id="বিজ্ঞান">
 <h2>বিজ্ঞান</h2>
   <ol>
@@ -176,6 +148,32 @@
       <li>পরিবেশ দূষণ প্রতিরোধে সরকারের ভূমিকা কী?</li>
     </ol>
   </section>
-
-</body>
-</html>
+  
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Class 7 Science - Chapter 10 & 14 Questions</title>
+  <style>
+    body {
+      font-family: SolaimanLipi, Arial, sans-serif;
+      margin: 20px;
+      background: #f5f5f5;
+      color: #222;
+    }
+    h1, h2 {
+      color: #0b3d91;
+    }
+    ol {
+      margin-left: 20px;
+      margin-bottom: 30px;
+    }
+    li {
+      margin-bottom: 12px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <main>
